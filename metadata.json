@@ -1,0 +1,6 @@
+{
+  "name": "Student Lifecycle CRM",
+  "description": "Production-grade Student Lifecycle CRM managing Lead, Counselling, Registration, Applications, Visa, and Post-Landing support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
